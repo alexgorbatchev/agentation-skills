@@ -1,0 +1,21 @@
+{
+  "name": "@alexgorbatchev/agentation-skills",
+  "version": "1.0.0",
+  "description": "Shared Agentation skills for coding agents",
+  "license": "MIT",
+  "keywords": [
+    "pi-package",
+    "pi-skill",
+    "agentation",
+    "agent-skills"
+  ],
+  "files": [
+    "README.md",
+    "skills/agentation-fix-loop/SKILL.md"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ]
+  }
+}
