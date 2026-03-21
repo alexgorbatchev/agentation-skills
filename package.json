@@ -22,5 +22,8 @@
     "check": "npm run verify:package && npm run verify:skills",
     "verify:package": "npm pack --dry-run > /dev/null",
     "verify:skills": "./scripts/verify-skills-install.sh"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
