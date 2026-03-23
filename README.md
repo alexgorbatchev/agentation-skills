@@ -4,6 +4,7 @@ Shared Agentation skills for coding agents.
 
 ## Related packages
 
+- [agentation-fork.vercel.app](https://agentation-fork.vercel.app)
 - [Agentation Fork](https://github.com/alexgorbatchev/agentation)
 - [Agentation CLI](https://github.com/alexgorbatchev/agentation-cli)
 - [pi-agentation](https://github.com/alexgorbatchev/pi-agentation)
